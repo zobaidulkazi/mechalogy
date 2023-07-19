@@ -85,7 +85,7 @@ const handleChange = (e) => {
         </button>
       </form>
 
-      <Link href='/login'>Go to Login Page</Link>
+      <Link href='/login'>Go to SignUp Page</Link>
     </div>
 
     </>
