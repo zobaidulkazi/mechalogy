@@ -6,7 +6,7 @@ import { Axios } from 'axios'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 
-export default function logInPage() {
+export default function LogInPage() {
 
 
     const [user, setUser] = useState({
